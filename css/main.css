@@ -455,7 +455,7 @@
   background-color: #444444; }
 
 .slider.slider-primary.noUi-target {
-  background-color: rgba(55, 140, 63, 0.4); }
+  background-color: rgba(131, 136, 132, 0.4); }
 
 .slider.slider-primary .noUi-handle {
   background-color: #444444; }
@@ -473,7 +473,7 @@
   background-color: #18ce0f; }
 
 .slider.slider-success.noUi-target {
-  background-color: rgba(24, 206, 15, 0.3); }
+  background-color: rgba(221, 224, 220, 0.3); }
 
 .slider.slider-success .noUi-handle {
   background-color: #18ce0f; }
@@ -2009,7 +2009,7 @@ textarea.form-control {
   .progress-container.progress-neutral .progress-badge {
     color: #FFFFFF; }
   .progress-container.progress-primary .progress {
-    background: rgba(138, 138, 138, 0.4); }
+    background: rgba(112, 112, 112, 0.4); }
   .progress-container.progress-primary .progress-bar {
     background: #444444; }
   .progress-container.progress-primary .progress-value,
@@ -2023,7 +2023,7 @@ textarea.form-control {
   .progress-container.progress-info .progress-badge {
     color: #2CA8FF; }
   .progress-container.progress-success .progress {
-    background: rgba(24, 206, 15, 0.3); }
+    background: rgba(173, 173, 173, 0.3); }
   .progress-container.progress-success .progress-bar {
     background: #18ce0f; }
   .progress-container.progress-success .progress-value,
@@ -5089,12 +5089,12 @@ Created using IcoMoon - icomoon.io
 /* Body */
 /* Profile Page Background Style */
 .page-header {
-  background: rgba(44, ,20, 0.2);
+  background: rgba(44, 20,20, 0.2);
   /* For browsers that do not support gradients */
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(44, ,20, 0.2), rgba(55, 140, 63, 0.6));
+  background: linear-gradient(0deg, rgba(44,20,20 0.2), rgba(55, 140, 63, 0.6));
   /* Standard syntax */ }
   .page-header .btn {
     width: 140px; }
